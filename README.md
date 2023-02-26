@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [install-jdk](https://github.com/jyksnw/install-jdk
+- 🔭 I’m currently working on <a href="https://github.com/jyksnw/install-jdk" target="_blank">install-jdk</a>
 
 <a href="https://www.buymeacoffee.com/jyksnw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" ></a>
 
