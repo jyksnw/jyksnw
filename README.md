@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<a href="https://www.buymeacoffee.com/jyksnw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 - 🔭 I’m currently working on [install-jdk](https://github.com/jyksnw/install-jdk
+
+<a href="https://www.buymeacoffee.com/jyksnw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" ></a>
 
 <!--
 **jyksnw/jyksnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
